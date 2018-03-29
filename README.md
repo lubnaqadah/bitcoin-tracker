@@ -1,3 +1,3 @@
 Bitcoin Tracker 
 
-###Track your bitcoins market value
+### Track your bitcoins market value
